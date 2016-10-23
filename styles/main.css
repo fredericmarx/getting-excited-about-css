@@ -1,5 +1,11 @@
-@import "tachyons-font-family";
+@import "tachyons-border-radius";
+@import "tachyons-borders";
 @import "tachyons-coordinates";
+@import "tachyons-flexbox";
+@import "tachyons-font-family";
+@import "tachyons-font-style";
+@import "tachyons-font-weight";
+@import "tachyons-links";
 @import "tachyons-position";
 @import "tachyons-spacing";
 @import "tachyons-skins";
