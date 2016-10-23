@@ -1,0 +1,28 @@
+{
+  "name": "getting-excited-about-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basscss-base-reset": "^2.0.3",
+    "cssnano": "^3.7.7",
+    "express": "^4.14.0",
+    "postcss-color-function": "^2.0.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-import": "^8.1.2",
+    "postcss-middleware": "^1.1.2",
+    "tachyons-coordinates": "^4.0.1",
+    "tachyons-font-family": "^4.3.0",
+    "tachyons-position": "^6.0.1",
+    "tachyons-skins": "^4.0.0",
+    "tachyons-spacing": "^6.0.1",
+    "tachyons-type-scale": "^6.0.1"
+  }
+}
