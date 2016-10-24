@@ -29,6 +29,7 @@
     "tachyons-position": "^6.0.1",
     "tachyons-skins": "^4.0.0",
     "tachyons-spacing": "^6.0.1",
-    "tachyons-type-scale": "^6.0.1"
+    "tachyons-type-scale": "^6.0.1",
+    "tachyons-widths": "^5.0.1"
   }
 }
